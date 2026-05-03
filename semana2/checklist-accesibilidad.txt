@@ -1,8 +1,8 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Nicolas Marin Garcia
+Fecha: 3/05/26
+Nombre de la rama: nicolas_marin_garcia
 
 1. ¿El formulario tiene un título claro?
 Respuesta:

@@ -1,14 +1,23 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Nicolas Marin Garcia
+Fecha: 3/05/2026
+Nombre de la rama: nicolas_marin_garcia
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
-1. ¿Por qué no se debe compartir cualquier información sin verificar?
-2. ¿Cómo ayuda la verificación responsable a proteger a una comunidad?
-3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
-4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
+1. ¿Por qué no se debe compartir cualquier información sin verificar? Ya que al compartir informacion que no 
+verificamos seríamos responsables de estar mal informando a nuestra comunidad digital.
+
+2. ¿Cómo ayuda la verificación responsable a proteger a una comunidad? La verificación responsable protege
+ a una comunidad porque evita la desinformación, ayuda a tomar
+ mejores decisiones y previene conflictos o daños. En pocas palabras, permite que las personas compartan información segura y confiable.
+
+3. ¿Por qué la accesibilidad también es una forma de inclusión digital?La accesibilidad es una forma de inclusión digital
+ porque permite que todas las personas, incluso quienes tienen discapacidades o limitaciones, puedan usar la tecnología.
+  Así, nadie queda excluido y todos pueden acceder a la información y participar en el entorno digital.
+
+4. El formulario “Participa” se relaciona con la participación ciudadana porque es un medio para que las personas expresen opiniones, ideas o 
+necesidades. Así, la comunidad puede involucrarse en decisiones y aportar al mejoramiento de su entorno.
 
 Respuesta:
