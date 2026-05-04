@@ -5,16 +5,17 @@ Fecha: 3/05/26
 Nombre de la rama: nicolas_marin_garcia
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Si, ya que el titulo del formulario da a entender que se recogera propuesta o ideas 
+para la comunidad.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Si, ya que se dice que es con el de ayudar o aportar idea para la comunidad.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
 Respuesta:
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Si, ya que indica bien en cada cajon o linea que debe de ir escrito en el.
 
 5. ¿El formulario evita pedir datos innecesarios?
 Respuesta:
@@ -23,13 +24,13 @@ Respuesta:
 Respuesta:
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Si, tiene uno donde informa a las personas para que sepan cuál es el fin de este.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: Si, tiene un nombre relacionado con el envío de la información de participación con las preguntas.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: Si, ya que tiene buene visibilidad de las letras, para personas que no logran ver bien entiendan lo que dice.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: 

@@ -6,18 +6,19 @@ Nombre de la rama: nicolas_marin_garcia
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
-1. ¿Por qué no se debe compartir cualquier información sin verificar? Ya que al compartir informacion que no 
-verificamos seríamos responsables de estar mal informando a nuestra comunidad digital.
-
-2. ¿Cómo ayuda la verificación responsable a proteger a una comunidad? La verificación responsable protege
- a una comunidad porque evita la desinformación, ayuda a tomar
- mejores decisiones y previene conflictos o daños. En pocas palabras, permite que las personas compartan información segura y confiable.
-
-3. ¿Por qué la accesibilidad también es una forma de inclusión digital?La accesibilidad es una forma de inclusión digital
- porque permite que todas las personas, incluso quienes tienen discapacidades o limitaciones, puedan usar la tecnología.
-  Así, nadie queda excluido y todos pueden acceder a la información y participar en el entorno digital.
-
-4. El formulario “Participa” se relaciona con la participación ciudadana porque es un medio para que las personas expresen opiniones, ideas o 
-necesidades. Así, la comunidad puede involucrarse en decisiones y aportar al mejoramiento de su entorno.
-
+1. ¿Por qué no se debe compartir cualquier información sin verificar?
+2. ¿Cómo ayuda la verificación responsable a proteger a una comunidad?
+3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
+4. ¿Qué relacion tiene el formulario “Participa”con la participación ciudadana?
 Respuesta:
+No se debe compartir cualquier información sin verificar porque puede ser falsa y causar 
+confusión o daño a otras personas. Antes de difundir algo, es importante revisar si la fuente es 
+confiable y si la información es verdadera. La verificación responsable ayuda a proteger a la comunidad 
+porque evita la propagación de rumores, noticias falsas y desinformación. Además, permite que las 
+personas tomen decisiones basadas en hechos reales.
+La accesibilidad también es una forma de inclusión digital porque garantiza que todas las personas, sin importar
+sus capacidades o condiciones, puedan acceder a la información y a las herramientas tecnológicas. Esto promueve la 
+igualdad y la participación de todos en el entorno digital.
+Por otro lado, el formulario “Participa” se relaciona con la participación ciudadana porque es un medio que permite
+a las personas expresar sus opiniones, ideas o necesidades. Así, se fortalece la comunicación entre la comunidad y 
+las instituciones, fomentando una sociedad más activa y democrática.
